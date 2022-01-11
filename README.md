@@ -1,2 +1,2 @@
 # git-info-repo-
-learning about git
+learning about git hi.
